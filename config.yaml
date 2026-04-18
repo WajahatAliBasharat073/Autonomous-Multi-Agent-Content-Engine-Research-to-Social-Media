@@ -1,0 +1,25 @@
+# Config for Autonomous Multi-Agent Content Engine
+
+# Target Domains for daily research
+domains:
+  - "Artificial Intelligence"
+  - "Machine Learning"
+  - "Deep Learning"
+  - "Natural Language Processing"
+  - "Computer Vision"
+  - "Large Language Models"
+  - "Multimodal LLMs"
+
+# Target news sources for "Top Tech Joints" news
+news_sources:
+  - "TechCrunch"
+  - "MIT Technology Review"
+  - "The Verge"
+  - "Arxiv AI Papers"
+  - "OpenAI Blog"
+  - "Google AI Blog"
+  - "DeepMind Blog"
+
+# Output settings
+archive_directory: "posts_archive"
+enable_archive: true
